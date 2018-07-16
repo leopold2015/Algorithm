@@ -8,21 +8,20 @@ import java.util.Scanner;
 public class Main {
 
     public static int reserveNum(int num){
-        if(num<0){
-            num = -num;
-        }
         int resnum = 0;
-        while(num >=1){
-            if(num % 10 != 0){
-                resnum = resnum * 10 + num % 10;
-                num = num /10;
-            }else{
-                num = num /10;
-            }
+        boolean flag = true;
+        if(num % 10 == 0){
+            num = num / 10;
+        }else if(num < 0){
+            num = - num;
+            flag = false;
         }
-        return resnum;
+        while(Math.abs(num) >=1){
+            resnum = resnum * 10 + num % 10;
+            num = num /10;
+        }
+        return flag?resnum:-resnum;
     }
-
     public static void main(String args[]){
         Scanner scanner = new Scanner(System.in);
         int num = scanner.nextInt();
