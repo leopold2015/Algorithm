@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mac/CLionProjects/Niukewang/StringReverse/main.cpp
+iostream
+/Users/mac/CLionProjects/Niukewang/StringReverse/iostream
+

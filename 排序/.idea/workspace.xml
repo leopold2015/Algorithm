@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b79a060a-a26c-4a4d-807b-4930f6f1a842" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1eFDPs9tUPNNoSwoOIYWKkd1oVh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="sorted" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" RUN_PATH="$PROJECT_DIR$/main.cpp" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b79a060a-a26c-4a4d-807b-4930f6f1a842" name="Default Changelist" comment="" />
+      <created>1593908425499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593908425499</updated>
+      <workItem from="1593908427069" duration="3392000" />
+      <workItem from="1607530413015" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="321" y="143" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593910652690">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state x="321" y="143" key="#com.intellij.execution.impl.EditConfigurationsDialog/47.23.1393.877@47.23.1393.877" timestamp="1593910652690" />
+    <state x="611" y="253" key="EnvironmentVariablesDialog" timestamp="1593910195010">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state x="611" y="253" key="EnvironmentVariablesDialog/47.23.1393.877@47.23.1393.877" timestamp="1593910195010" />
+    <state x="478" y="201" key="run.anything.popup" timestamp="1593910482001">
+      <screen x="47" y="23" width="1393" height="877" />
+    </state>
+    <state x="478" y="201" key="run.anything.popup/47.23.1393.877@47.23.1393.877" timestamp="1593910482001" />
+  </component>
+</project>
